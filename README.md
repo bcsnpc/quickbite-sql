@@ -60,11 +60,13 @@ Top cuisine per city varies (Hyderabad → Biryani, Bangalore → Continental/Ch
 
 | Act | Time | Concepts | Priya's question |
 |---|---|---|---|
-| 🎬 1 — Simple questions | 0:05 – 0:15 | `SELECT`, `WHERE`, `COUNT`, `SUM` | "How did we do yesterday?" |
-| 🎬 2 — Grouping | 0:15 – 0:27 | `GROUP BY`, `ORDER BY`, `LIMIT`, first `JOIN` | "Break it down by city. Top 5 restaurants this month?" |
-| 🎬 3 — Joins | 0:27 – 0:40 | `INNER JOIN` vs `LEFT JOIN`, find-absence pattern | "Marketing wants names — and a list of customers who've gone silent" |
-| 🎬 4 — CTEs | 0:40 – 0:52 | `WITH`, list-minus-list, `HAVING` | "Who are our silent churners?" |
-| 🎬 5 — Window functions | 0:52 – 1:00 | `ROW_NUMBER() OVER (PARTITION BY …)` | "What's the top cuisine in each city?" |
+| 🎬 1 — Simple questions | 0:01 – 0:11 | `SELECT`, `WHERE`, `COUNT`, `SUM` | "How did we do yesterday?" |
+| 🎬 2 — Grouping | 0:11 – 0:23 | `GROUP BY`, `ORDER BY`, `LIMIT`, first `JOIN` | "Break it down by city. Top 5 restaurants this month?" |
+| 🎬 3 — Joins | 0:23 – 0:35 | `INNER JOIN` vs `LEFT JOIN`, find-absence pattern | "Marketing wants names — and a list of customers who've gone silent" |
+| 🎬 4 — CTEs | 0:35 – 0:47 | `WITH`, list-minus-list, `HAVING` | "Who are our silent churners?" |
+| 🎬 5 — Window functions | 0:47 – 0:55 | `ROW_NUMBER() OVER (PARTITION BY …)` | "What's the top cuisine in each city?" |
+
+The remaining 5 minutes (0:55 – 1:00) is closing recap and Q&A.
 
 Plus a **`CASE WHEN`** bonus for bucketing restaurants by rating.
 
@@ -89,7 +91,7 @@ If you'd rather use DBeaver, DuckDB, or PostgreSQL, see [`run_locally.md`](run_l
 
 ## Re-running the session yourself
 
-If you want to deliver this session to a team of your own, the full 60-minute speaking script is in [`facilitator_speech.md`](facilitator_speech.md) — narration, audience check-ins, recovery moves for when the room looks lost, and answers for the inevitable "what about NoSQL?" question.
+If you want to deliver this session to a team of your own, the full 60-minute speaking script is in [`facilitator_speech.md`](facilitator_speech.md). It's written for **online screen-share delivery** (Zoom / Teams / Meet) where only the facilitator runs the notebook and the audience watches — line-by-line query walkthroughs, concept deep-dives between queries, common-mistake callouts, and pre-written answers for the four end-of-session questions you always get.
 
 ## Regenerating the data
 
@@ -104,20 +106,22 @@ Reproducible with `random.seed(42)` and `numpy.random.seed(42)` — re-running p
 ```
 quickbite-sql/
 ├── README.md
-├── data/                          # 9 CSV files
+├── data/                            # 9 CSV files
 ├── notebook/
-│   └── QuickBite_SQL_Story.ipynb  # the main session artifact
+│   └── QuickBite_SQL_Story.ipynb    # the main session artifact
 ├── scripts/
-│   ├── generate_data.py           # data generator
-│   ├── validate_session_queries.py
-│   ├── build_notebook.py
-│   ├── test_notebook_execution.py
-│   └── load_to_sqlite.py          # for local DBeaver users
-├── exercises/                     # 4 graded exercise files
-├── solutions/all_solutions.sql
-├── cheatsheet.md
-├── facilitator_speech.md
-└── run_locally.md
+│   ├── generate_data.py             # data generator (seed=42)
+│   ├── validate_session_queries.py  # runs all 10 session queries
+│   ├── run_all_solutions.py         # runs all 20 exercise solutions
+│   ├── build_notebook.py            # rebuilds the .ipynb from source
+│   ├── test_notebook_execution.py   # executes notebook end-to-end
+│   ├── load_to_sqlite.py            # builds quickbite.db for DBeaver
+│   └── schema.sql                   # PostgreSQL DDL for COPY FROM workflow
+├── exercises/                       # 4 graded exercise files (20 problems total)
+├── solutions/all_solutions.sql      # all 20 solutions, headered & runnable
+├── cheatsheet.md                    # one printable page
+├── facilitator_speech.md            # 60-min online speaking script
+└── run_locally.md                   # SQLite/DuckDB/Postgres local-run guide
 ```
 
 ## Contributing
