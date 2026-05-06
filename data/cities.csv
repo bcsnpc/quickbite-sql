@@ -1,0 +1,9 @@
+city_id,city_name,state,latitude,longitude,tier,launched_date
+CTY01,Hyderabad,Telangana,17.385,78.486,Tier1,2022-06-01
+CTY02,Bangalore,Karnataka,12.972,77.594,Tier1,2022-06-01
+CTY03,Mumbai,Maharashtra,19.076,72.877,Tier1,2022-07-01
+CTY04,Delhi,Delhi,28.704,77.103,Tier1,2022-07-15
+CTY05,Chennai,Tamil Nadu,13.083,80.27,Tier1,2022-08-01
+CTY06,Pune,Maharashtra,18.52,73.856,Tier1,2022-09-01
+CTY07,Kolkata,West Bengal,22.573,88.364,Tier1,2022-10-01
+CTY08,Ahmedabad,Gujarat,23.026,72.572,Tier2,2023-01-01

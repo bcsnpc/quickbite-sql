@@ -1,0 +1,201 @@
+restaurant_id,name,city,cuisine,rating_avg,price_tier,onboarded_date,is_active
+R001,Truffles - Hyderabad,Hyderabad,Continental,4.3,Premium,2025-11-13,1
+R002,Pind Balluchi - Hyderabad,Hyderabad,North Indian,4.3,Mid,2023-01-10,1
+R003,Sangeetha - Hyderabad,Hyderabad,South Indian,3.7,Budget,2024-12-05,1
+R004,Mainland China,Hyderabad,Chinese,4.3,Mid,2024-11-26,1
+R005,Frontier - Hyderabad,Hyderabad,North Indian,3.7,Mid,2025-12-06,1
+R006,Mehfil Biryani,Hyderabad,Biryani,3.4,Budget,2023-09-30,1
+R007,Mubarak Mahal - Hyderabad,Hyderabad,Mughlai,3.9,Mid,2022-10-16,1
+R008,Mubarak Mahal - Hyderabad,Hyderabad,Mughlai,4.4,Budget,2025-02-11,1
+R009,The Dessert Lab - Hyderabad,Hyderabad,Desserts,4.3,Budget,2023-01-09,1
+R010,Aslam Chicken - Hyderabad,Hyderabad,Mughlai,4.0,Budget,2024-12-31,1
+R011,Pizza Corner,Hyderabad,Pizza,3.8,Budget,2023-12-27,1
+R012,Shah Jahani,Hyderabad,Mughlai,3.8,Mid,2023-07-03,1
+R013,Dum Biryani House,Hyderabad,Mughlai,4.0,Mid,2024-09-06,1
+R014,Saravana Bhavan - Hyderabad,Hyderabad,South Indian,3.6,Premium,2025-05-06,1
+R015,Sangeetha - Hyderabad,Hyderabad,South Indian,3.9,Budget,2026-02-27,1
+R016,Royal Biryani - Hyderabad,Hyderabad,Biryani,3.9,Mid,2025-04-29,1
+R017,Annapurna,Hyderabad,South Indian,3.5,Mid,2025-11-23,1
+R018,Beijing Bites - Hyderabad,Hyderabad,Chinese,3.7,Mid,2023-06-14,1
+R019,The Flying Saucer - Hyderabad,Hyderabad,Continental,4.2,Budget,2024-07-13,1
+R020,Ram Shyam - Hyderabad,Hyderabad,Street Food,4.0,Premium,2023-07-18,1
+R021,Murugan Idli Shop,Hyderabad,South Indian,3.9,Budget,2023-03-01,1
+R022,Golconda Biryani,Hyderabad,Biryani,3.6,Budget,2024-04-26,1
+R023,Ram Ashraya,Hyderabad,South Indian,4.6,Budget,2025-08-06,1
+R024,Lucknowi Dawat - Hyderabad,Hyderabad,Mughlai,3.7,Mid,2025-02-02,1
+R025,Toit Brewpub,Hyderabad,Continental,4.1,Budget,2023-09-22,1
+R026,Mehfil Biryani,Hyderabad,Biryani,3.8,Premium,2025-07-18,1
+R027,Mubarak Mahal,Hyderabad,Mughlai,4.0,Budget,2025-03-28,1
+R028,Bawarchi - Hyderabad,Hyderabad,Biryani,4.2,Mid,2024-09-13,1
+R029,Annapurna - Hyderabad,Hyderabad,South Indian,3.5,Mid,2025-05-03,1
+R030,Vidyarthi Bhavan - Hyderabad,Hyderabad,South Indian,4.0,Premium,2025-01-22,1
+R031,Baskin Robbins Local,Hyderabad,Desserts,4.5,Budget,2024-04-24,1
+R032,Royal Biryani - Hyderabad,Hyderabad,Biryani,4.7,Budget,2025-05-23,1
+R033,The Orient,Bangalore,Chinese,3.9,Mid,2025-12-20,1
+R034,Golconda Biryani,Bangalore,Biryani,4.0,Premium,2023-06-12,1
+R035,Al Jawahar - Bangalore,Bangalore,Mughlai,4.9,Mid,2023-10-25,1
+R036,Social,Bangalore,Continental,4.5,Budget,2023-05-24,1
+R037,Toit Brewpub - Bangalore,Bangalore,Continental,3.8,Premium,2022-11-23,1
+R038,Cream Stone - Bangalore,Bangalore,Desserts,3.8,Budget,2024-08-05,1
+R039,Noodle House - Bangalore,Bangalore,Chinese,4.4,Mid,2022-11-21,1
+R040,La Pino'z,Bangalore,Pizza,3.6,Premium,2023-11-05,1
+R041,Saravana Bhavan,Bangalore,South Indian,4.4,Budget,2024-10-07,1
+R042,Toit Brewpub - Bangalore,Bangalore,Continental,4.1,Budget,2024-12-05,1
+R043,Bombay Pav Bhaji - Bangalore,Bangalore,Street Food,4.2,Budget,2023-02-22,1
+R044,Truffles,Bangalore,Continental,3.9,Premium,2023-06-21,1
+R045,La Bella Italia,Bangalore,Italian,3.7,Mid,2025-08-09,1
+R046,Windmills - Bangalore,Bangalore,Continental,4.6,Mid,2025-09-28,1
+R047,Elco Pani Puri,Bangalore,Street Food,3.9,Budget,2023-10-19,1
+R048,Bello Cibo,Bangalore,Italian,3.8,Premium,2025-04-04,1
+R049,Windmills - Bangalore,Bangalore,Continental,4.0,Mid,2025-05-10,1
+R050,Beijing Bites,Bangalore,Chinese,4.1,Mid,2024-09-25,1
+R051,Oven Story,Bangalore,Pizza,3.6,Budget,2024-01-19,1
+R052,Haveli Restaurant,Bangalore,North Indian,3.8,Premium,2024-07-12,1
+R053,Corner House - Bangalore,Bangalore,Continental,3.8,Mid,2024-08-07,1
+R054,Vidyarthi Bhavan,Bangalore,South Indian,4.3,Budget,2024-04-12,1
+R055,Chung Fa,Bangalore,Chinese,3.6,Mid,2022-06-07,0
+R056,Hard Rock Cafe,Bangalore,Continental,3.3,Mid,2022-06-06,1
+R057,Dominos Express - Bangalore,Bangalore,Pizza,3.2,Mid,2022-12-02,1
+R058,Dragon Palace,Bangalore,Chinese,3.4,Mid,2024-03-15,1
+R059,The Flying Saucer,Bangalore,Continental,4.5,Mid,2022-06-07,1
+R060,The Dessert Lab - Bangalore,Bangalore,Desserts,4.0,Mid,2022-11-11,1
+R061,Mehfil Biryani,Bangalore,Biryani,4.2,Mid,2025-09-17,1
+R062,Murugan Idli Shop,Bangalore,South Indian,4.2,Mid,2024-12-05,1
+R063,Toit Brewpub - Bangalore,Bangalore,Continental,4.0,Mid,2025-07-12,1
+R064,Golden Dragon,Bangalore,Chinese,4.0,Mid,2024-04-29,1
+R065,Wok To Walk - Mumbai,Mumbai,Chinese,4.4,Mid,2025-12-03,1
+R066,Paradise Biryani,Mumbai,Biryani,4.1,Budget,2022-07-29,1
+R067,Pizza Point - Mumbai,Mumbai,Pizza,4.6,Premium,2022-10-15,1
+R068,Ram Shyam - Mumbai,Mumbai,Street Food,4.2,Budget,2023-05-03,1
+R069,Pesto Kitchen - Mumbai,Mumbai,Italian,3.8,Mid,2025-04-11,1
+R070,Sweet Spot,Mumbai,Desserts,3.8,Premium,2024-04-03,1
+R071,Beijing Bites - Mumbai,Mumbai,Chinese,3.7,Budget,2025-07-14,1
+R072,MTR - Mumbai,Mumbai,South Indian,4.5,Budget,2025-05-10,1
+R073,Noodle House,Mumbai,Chinese,3.8,Premium,2025-09-18,1
+R074,The Flying Saucer,Mumbai,Continental,3.7,Mid,2025-04-25,1
+R075,Moti Mahal - Mumbai,Mumbai,North Indian,4.1,Premium,2024-02-17,1
+R076,Vada Pav Hub,Mumbai,Street Food,4.0,Mid,2025-07-29,1
+R077,Truffles,Mumbai,Continental,4.1,Budget,2025-10-26,1
+R078,Baskin Robbins Local - Mumbai,Mumbai,Desserts,4.8,Premium,2022-10-22,1
+R079,Bhel Puri House,Mumbai,Street Food,4.4,Mid,2024-04-07,1
+R080,Truffles,Mumbai,Continental,4.0,Mid,2024-05-02,1
+R081,Oven Story - Mumbai,Mumbai,Pizza,3.4,Premium,2022-09-26,1
+R082,Pind Balluchi - Mumbai,Mumbai,North Indian,3.8,Mid,2023-07-11,1
+R083,Mithai Junction - Mumbai,Mumbai,Desserts,4.3,Mid,2024-01-05,1
+R084,Dhaba Express,Mumbai,North Indian,3.5,Premium,2025-10-24,1
+R085,Gelato Italiano,Mumbai,Desserts,4.9,Mid,2023-02-27,1
+R086,Pasta House - Mumbai,Mumbai,Italian,4.0,Mid,2025-01-21,1
+R087,The Flying Saucer,Mumbai,Continental,4.0,Budget,2025-10-21,1
+R088,Vada Pav Hub,Mumbai,Street Food,3.7,Mid,2023-12-21,1
+R089,The Dessert Lab - Mumbai,Mumbai,Desserts,4.2,Premium,2024-12-02,1
+R090,Mumbai Street,Mumbai,Street Food,3.5,Mid,2023-12-05,1
+R091,Sugar & Spice,Mumbai,Desserts,4.9,Mid,2022-06-17,1
+R092,Haveli Restaurant,Mumbai,North Indian,4.5,Budget,2024-01-30,1
+R093,Noodle House - Delhi,Delhi,Chinese,4.4,Mid,2025-11-28,1
+R094,Sarson - Delhi,Delhi,North Indian,3.4,Budget,2024-12-25,1
+R095,Sarson - Delhi,Delhi,North Indian,4.1,Budget,2025-07-23,1
+R096,Sarson - Delhi,Delhi,North Indian,4.5,Mid,2025-06-30,1
+R097,Olive Garden,Delhi,Italian,4.2,Premium,2023-10-17,1
+R098,Trattoria - Delhi,Delhi,Italian,3.6,Mid,2025-07-19,1
+R099,Frontier,Delhi,North Indian,3.7,Mid,2023-01-22,1
+R100,Sev Puri Stall,Delhi,Street Food,3.8,Mid,2022-06-01,1
+R101,Al Jawahar - Delhi,Delhi,Mughlai,3.8,Mid,2025-11-30,1
+R102,Cream Stone,Delhi,Desserts,4.6,Mid,2024-12-12,1
+R103,Il Forno,Delhi,Italian,3.2,Premium,2023-10-15,1
+R104,Cheese N More - Delhi,Delhi,Pizza,4.3,Mid,2024-09-10,1
+R105,Elco Pani Puri - Delhi,Delhi,Street Food,3.5,Premium,2023-09-07,1
+R106,Bombay Pav Bhaji - Delhi,Delhi,Street Food,3.6,Premium,2023-03-19,1
+R107,Punjab Grill,Delhi,North Indian,3.2,Budget,2025-11-01,1
+R108,Punjab Grill - Delhi,Delhi,North Indian,3.8,Budget,2024-03-02,1
+R109,Mughal Darbar,Delhi,Mughlai,4.6,Mid,2024-01-10,1
+R110,Frontier - Delhi,Delhi,North Indian,4.1,Premium,2026-01-26,1
+R111,Dum Biryani House,Delhi,Mughlai,3.5,Premium,2025-04-05,1
+R112,Royal Nawab - Delhi,Delhi,Mughlai,4.4,Budget,2023-10-18,1
+R113,Pind Balluchi - Delhi,Delhi,North Indian,4.5,Mid,2024-10-05,1
+R114,Royal Nawab - Delhi,Delhi,Mughlai,4.0,Budget,2022-12-01,1
+R115,Moti Mahal,Delhi,North Indian,4.8,Premium,2023-02-07,1
+R116,Bamboo Garden,Delhi,Chinese,4.3,Mid,2023-03-25,1
+R117,Aslam Chicken - Delhi,Delhi,Mughlai,4.3,Premium,2025-08-12,1
+R118,Mubarak Mahal - Delhi,Delhi,Mughlai,3.7,Budget,2025-11-12,1
+R119,Dum Biryani House - Delhi,Delhi,Mughlai,4.3,Mid,2024-12-03,1
+R120,Delhi 6,Delhi,North Indian,4.1,Premium,2024-06-15,1
+R121,Saravana Bhavan - Chennai,Chennai,South Indian,4.2,Mid,2022-10-08,1
+R122,Mumbai Street,Chennai,Street Food,3.7,Mid,2024-06-24,1
+R123,Chopsticks - Chennai,Chennai,Chinese,4.1,Premium,2024-06-11,1
+R124,Trattoria - Chennai,Chennai,Italian,3.7,Mid,2023-12-27,1
+R125,Mainland China - Chennai,Chennai,Chinese,3.1,Budget,2022-09-15,1
+R126,Oven Story,Chennai,Pizza,4.4,Mid,2025-04-10,1
+R127,Hyderabadi House,Chennai,Biryani,3.4,Premium,2024-04-26,1
+R128,La Pino'z - Chennai,Chennai,Pizza,4.0,Mid,2024-10-28,1
+R129,Sweet Spot,Chennai,Desserts,4.1,Mid,2025-03-13,1
+R130,Ram Ashraya - Chennai,Chennai,South Indian,4.1,Mid,2024-04-13,1
+R131,Paradise Biryani - Chennai,Chennai,Biryani,3.9,Budget,2022-11-28,1
+R132,Pind Balluchi,Chennai,North Indian,4.1,Mid,2023-03-11,1
+R133,Dum Pukht,Chennai,Biryani,4.2,Mid,2024-05-20,1
+R134,Dragon Palace,Chennai,Chinese,4.3,Mid,2023-01-09,1
+R135,Mithai Junction,Chennai,Desserts,4.7,Mid,2025-12-31,1
+R136,Sangeetha - Chennai,Chennai,South Indian,4.1,Mid,2024-07-15,1
+R137,Mughal Darbar - Chennai,Chennai,Mughlai,4.0,Premium,2023-02-17,1
+R138,Truffles - Chennai,Chennai,Continental,3.6,Premium,2023-08-06,1
+R139,Vidyarthi Bhavan,Chennai,South Indian,4.2,Budget,2024-05-01,1
+R140,Sangeetha,Chennai,South Indian,4.3,Mid,2025-12-17,1
+R141,Mainland China,Chennai,Chinese,3.9,Budget,2024-04-08,1
+R142,Corner House,Chennai,Continental,4.2,Mid,2024-07-23,1
+R143,Noodle House - Pune,Pune,Chinese,3.9,Mid,2024-05-07,1
+R144,Pizza Corner,Pune,Pizza,4.3,Premium,2025-09-30,1
+R145,Haveli Restaurant - Pune,Pune,North Indian,4.4,Mid,2024-05-20,1
+R146,Pizza Town,Pune,Pizza,4.4,Mid,2025-05-22,1
+R147,Chaat Corner,Pune,Street Food,4.0,Mid,2025-02-12,1
+R148,Mumbai Street,Pune,Street Food,3.6,Mid,2022-06-25,1
+R149,Oven Story - Pune,Pune,Pizza,3.8,Mid,2026-01-08,1
+R150,Bhel Puri House - Pune,Pune,Street Food,4.2,Mid,2022-07-07,1
+R151,Chopsticks - Pune,Pune,Chinese,4.9,Budget,2024-07-12,1
+R152,Smoke House Deli - Pune,Pune,Continental,3.9,Premium,2025-12-30,1
+R153,Pind Balluchi - Pune,Pune,North Indian,4.2,Mid,2022-08-05,1
+R154,Delhi 6 - Pune,Pune,North Indian,3.8,Mid,2025-09-11,1
+R155,The Orient,Pune,Chinese,3.6,Mid,2023-11-14,1
+R156,Haveli Restaurant,Pune,North Indian,3.7,Budget,2024-02-01,1
+R157,Moti Mahal,Pune,North Indian,3.2,Budget,2022-12-25,1
+R158,Pizza Studio,Pune,Pizza,4.5,Budget,2022-10-17,1
+R159,Sweet Spot - Pune,Pune,Desserts,3.1,Budget,2026-01-20,1
+R160,Slice of Heaven,Pune,Pizza,3.9,Premium,2022-11-17,0
+R161,Bello Cibo,Pune,Italian,3.5,Budget,2022-10-14,0
+R162,Pizza Corner - Pune,Pune,Pizza,3.6,Mid,2024-10-08,1
+R163,Karim's,Pune,Mughlai,4.6,Budget,2023-06-30,1
+R164,The Pizza Company - Pune,Pune,Pizza,4.1,Premium,2023-08-28,1
+R165,Dragon Palace - Kolkata,Kolkata,Chinese,3.6,Premium,2024-01-26,1
+R166,The Humming Tree - Kolkata,Kolkata,Continental,3.8,Budget,2024-07-13,1
+R167,The Orient - Kolkata,Kolkata,Chinese,3.7,Mid,2023-08-09,1
+R168,The Humming Tree,Kolkata,Continental,4.0,Mid,2022-08-18,1
+R169,Royal Biryani - Kolkata,Kolkata,Biryani,4.1,Mid,2025-03-03,1
+R170,Mainland China - Kolkata,Kolkata,Chinese,4.8,Budget,2023-01-28,1
+R171,Dragon Palace,Kolkata,Chinese,3.2,Budget,2025-11-23,1
+R172,Natural Ice Cream,Kolkata,Desserts,4.0,Mid,2024-12-21,1
+R173,Sarson - Kolkata,Kolkata,North Indian,3.9,Premium,2024-10-25,1
+R174,Dhaba Express,Kolkata,North Indian,4.4,Mid,2022-07-14,1
+R175,MTR,Kolkata,South Indian,4.1,Premium,2024-03-17,1
+R176,Tuscany,Kolkata,Italian,4.2,Premium,2022-07-13,1
+R177,Sugar & Spice,Kolkata,Desserts,4.1,Mid,2025-02-14,1
+R178,Pind Balluchi - Kolkata,Kolkata,North Indian,3.6,Mid,2025-06-06,1
+R179,Mumbai Street - Kolkata,Kolkata,Street Food,4.5,Budget,2023-11-23,1
+R180,Ram Shyam,Kolkata,Street Food,4.3,Budget,2023-04-12,1
+R181,Olive Garden - Kolkata,Kolkata,Italian,4.4,Budget,2025-11-13,1
+R182,Chung Fa,Kolkata,Chinese,4.5,Budget,2023-03-13,1
+R183,Mumbai Street - Kolkata,Kolkata,Street Food,4.2,Premium,2024-05-15,1
+R184,Elco Pani Puri,Kolkata,Street Food,4.6,Mid,2022-07-30,1
+R185,Slice of Heaven,Ahmedabad,Pizza,4.2,Premium,2025-12-27,0
+R186,Juhu Chowpati,Ahmedabad,Street Food,3.9,Premium,2022-11-09,1
+R187,Truffles - Ahmedabad,Ahmedabad,Continental,4.0,Mid,2023-09-18,1
+R188,Lucknowi Dawat,Ahmedabad,Mughlai,4.0,Budget,2022-12-22,1
+R189,The Dessert Lab - Ahmedabad,Ahmedabad,Desserts,3.8,Mid,2022-12-12,0
+R190,Cheese N More,Ahmedabad,Pizza,4.7,Premium,2023-09-21,1
+R191,Cream Stone,Ahmedabad,Desserts,4.1,Mid,2026-01-29,1
+R192,Natural Ice Cream,Ahmedabad,Desserts,4.0,Mid,2025-05-13,1
+R193,Bhel Puri House - Ahmedabad,Ahmedabad,Street Food,4.2,Mid,2023-09-25,1
+R194,Chopsticks,Ahmedabad,Chinese,4.9,Budget,2025-12-24,1
+R195,Mainland China - Ahmedabad,Ahmedabad,Chinese,3.5,Mid,2024-07-17,1
+R196,Lucknowi Dawat,Ahmedabad,Mughlai,3.7,Premium,2023-08-27,1
+R197,Frontier,Ahmedabad,North Indian,3.4,Mid,2023-09-03,1
+R198,Mubarak Mahal,Ahmedabad,Mughlai,3.9,Mid,2022-08-01,1
+R199,Spice Garden - Ahmedabad,Ahmedabad,Biryani,4.1,Mid,2022-10-05,1
+R200,Pizza Point - Ahmedabad,Ahmedabad,Pizza,3.8,Premium,2022-12-17,1
