@@ -52,6 +52,8 @@ conn.close()
 engine = create_engine(f"sqlite:///{{DB_PATH}}")
 %load_ext sql
 %sql engine
+%config SqlMagic.displaylimit = None
+%config SqlMagic.autopandas = True
 print("\\nReady (test mode).")
 """
 

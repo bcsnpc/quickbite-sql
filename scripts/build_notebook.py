@@ -120,6 +120,11 @@ conn.close()
 %load_ext sql
 %sql sqlite:////content/quickbite.db
 
+# Show all rows (default cap is 10) and render results as pandas DataFrames
+# (Colab applies its interactive table widget automatically).
+%config SqlMagic.displaylimit = None
+%config SqlMagic.autopandas = True
+
 print("\\n✓ Ready. You can now run %%sql cells against the database.")
 """)
 
