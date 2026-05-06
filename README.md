@@ -89,10 +89,6 @@ If you'd rather use DBeaver, DuckDB, or PostgreSQL, see [`run_locally.md`](run_l
 
 [`cheatsheet.md`](cheatsheet.md) — one printable page covering query shape, aggregates, join types, the `WHERE`-vs-`HAVING` rule, CTEs, window functions, `CASE WHEN`, and common patterns (top-N-per-group, find-absences, percentage-of-total).
 
-## Re-running the session yourself
-
-If you want to deliver this session to a team of your own, the full 60-minute speaking script is in [`facilitator_speech.md`](facilitator_speech.md). It's written for **online screen-share delivery** (Zoom / Teams / Meet) where only the facilitator runs the notebook and the audience watches — line-by-line query walkthroughs, concept deep-dives between queries, common-mistake callouts, and pre-written answers for the four end-of-session questions you always get.
-
 ## Regenerating the data
 
 ```bash
@@ -120,7 +116,6 @@ quickbite-sql/
 ├── exercises/                       # 4 graded exercise files (20 problems total)
 ├── solutions/all_solutions.sql      # all 20 solutions, headered & runnable
 ├── cheatsheet.md                    # one printable page
-├── facilitator_speech.md            # 60-min online speaking script
 └── run_locally.md                   # SQLite/DuckDB/Postgres local-run guide
 ```
 

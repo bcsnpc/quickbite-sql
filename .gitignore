@@ -10,3 +10,6 @@ build/
 .env
 *.db
 *.sqlite
+
+# Facilitator's private speaking notes — keep local, don't publish
+facilitator_speech.md
